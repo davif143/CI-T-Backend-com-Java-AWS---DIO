@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CI-T-Backend-com-Java-AWS---DIO.iml" filepath="$PROJECT_DIR$/.idea/CI-T-Backend-com-Java-AWS---DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herança e Polimorfismo/CinemaDIO/CinemaDIO.iml" filepath="$PROJECT_DIR$/Herança e Polimorfismo/CinemaDIO/CinemaDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstração com Classe e Encapsulamento/ContaBancaria_DIO/ContaBancaria_DIO.iml" filepath="$PROJECT_DIR$/Abstração com Classe e Encapsulamento/ContaBancaria_DIO/ContaBancaria_DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstração com Classe e Encapsulamento/ControlarVeiculo_DIO/ControlarVeiculo_DIO.iml" filepath="$PROJECT_DIR$/Abstração com Classe e Encapsulamento/ControlarVeiculo_DIO/ControlarVeiculo_DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herança e Polimorfismo/FuncionariosDIO/FuncionariosDIO.iml" filepath="$PROJECT_DIR$/Herança e Polimorfismo/FuncionariosDIO/FuncionariosDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstração com Classe e Encapsulamento/PetShopDIO/PetShopDIO.iml" filepath="$PROJECT_DIR$/Abstração com Classe e Encapsulamento/PetShopDIO/PetShopDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herança e Polimorfismo/RelogioDIO/RelogioDIO.iml" filepath="$PROJECT_DIR$/Herança e Polimorfismo/RelogioDIO/RelogioDIO.iml" />
+    </modules>
+  </component>
+</project>
