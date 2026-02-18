@@ -3,12 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CI-T-Backend-com-Java-AWS---DIO.iml" filepath="$PROJECT_DIR$/.idea/CI-T-Backend-com-Java-AWS---DIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Herança e Polimorfismo/CinemaDIO/CinemaDIO.iml" filepath="$PROJECT_DIR$/Herança e Polimorfismo/CinemaDIO/CinemaDIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Abstração com Classe e Encapsulamento/ContaBancaria_DIO/ContaBancaria_DIO.iml" filepath="$PROJECT_DIR$/Abstração com Classe e Encapsulamento/ContaBancaria_DIO/ContaBancaria_DIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Abstração com Classe e Encapsulamento/ControlarVeiculo_DIO/ControlarVeiculo_DIO.iml" filepath="$PROJECT_DIR$/Abstração com Classe e Encapsulamento/ControlarVeiculo_DIO/ControlarVeiculo_DIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Herança e Polimorfismo/FuncionariosDIO/FuncionariosDIO.iml" filepath="$PROJECT_DIR$/Herança e Polimorfismo/FuncionariosDIO/FuncionariosDIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Abstração com Classe e Encapsulamento/PetShopDIO/PetShopDIO.iml" filepath="$PROJECT_DIR$/Abstração com Classe e Encapsulamento/PetShopDIO/PetShopDIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Herança e Polimorfismo/RelogioDIO/RelogioDIO.iml" filepath="$PROJECT_DIR$/Herança e Polimorfismo/RelogioDIO/RelogioDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orietada a Objetos/Praticando com Collections e Outras Classes Úteis do Java/CalculadoraDIO/CalculadoraDIO.iml" filepath="$PROJECT_DIR$/Programação Orietada a Objetos/Praticando com Collections e Outras Classes Úteis do Java/CalculadoraDIO/CalculadoraDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orietada a Objetos/Herança e Polimorfismo/CinemaDIO/CinemaDIO.iml" filepath="$PROJECT_DIR$/Programação Orietada a Objetos/Herança e Polimorfismo/CinemaDIO/CinemaDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orietada a Objetos/Abstração com Classe e Encapsulamento/ContaBancaria_DIO/ContaBancaria_DIO.iml" filepath="$PROJECT_DIR$/Programação Orietada a Objetos/Abstração com Classe e Encapsulamento/ContaBancaria_DIO/ContaBancaria_DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orietada a Objetos/Abstração com Classe e Encapsulamento/ControlarVeiculo_DIO/ControlarVeiculo_DIO.iml" filepath="$PROJECT_DIR$/Programação Orietada a Objetos/Abstração com Classe e Encapsulamento/ControlarVeiculo_DIO/ControlarVeiculo_DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coleções e Stream em Java/Ganhando Produtividade com Stream API/DesafiosDIO/DesafiosDIO.iml" filepath="$PROJECT_DIR$/Coleções e Stream em Java/Ganhando Produtividade com Stream API/DesafiosDIO/DesafiosDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coleções e Stream em Java/Conhecendo Collections Java/Exercicios List/Exercicios List.iml" filepath="$PROJECT_DIR$/Coleções e Stream em Java/Conhecendo Collections Java/Exercicios List/Exercicios List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coleções e Stream em Java/Conhecendo Collections Java/Exercicios Map/Exercicios Map.iml" filepath="$PROJECT_DIR$/Coleções e Stream em Java/Conhecendo Collections Java/Exercicios Map/Exercicios Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coleções e Stream em Java/Conhecendo Collections Java/Exercicios Set/Exercicios Set.iml" filepath="$PROJECT_DIR$/Coleções e Stream em Java/Conhecendo Collections Java/Exercicios Set/Exercicios Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orietada a Objetos/Interfaces e Lambda/FormasGeometricasDIO/FormasGeometricasDIO.iml" filepath="$PROJECT_DIR$/Programação Orietada a Objetos/Interfaces e Lambda/FormasGeometricasDIO/FormasGeometricasDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orietada a Objetos/Herança e Polimorfismo/FuncionariosDIO/FuncionariosDIO.iml" filepath="$PROJECT_DIR$/Programação Orietada a Objetos/Herança e Polimorfismo/FuncionariosDIO/FuncionariosDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orietada a Objetos/Interfaces e Lambda/MessageDIO/MessageDIO.iml" filepath="$PROJECT_DIR$/Programação Orietada a Objetos/Interfaces e Lambda/MessageDIO/MessageDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orietada a Objetos/Abstração com Classe e Encapsulamento/PetShopDIO/PetShopDIO.iml" filepath="$PROJECT_DIR$/Programação Orietada a Objetos/Abstração com Classe e Encapsulamento/PetShopDIO/PetShopDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coleções e Stream em Java/Sudoku/Sudoku.iml" filepath="$PROJECT_DIR$/Coleções e Stream em Java/Sudoku/Sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orietada a Objetos/Praticando com Collections e Outras Classes Úteis do Java/TelefoneDIO/TelefoneDIO.iml" filepath="$PROJECT_DIR$/Programação Orietada a Objetos/Praticando com Collections e Outras Classes Úteis do Java/TelefoneDIO/TelefoneDIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orietada a Objetos/Interfaces e Lambda/VendasDIO/VendasDIO.iml" filepath="$PROJECT_DIR$/Programação Orietada a Objetos/Interfaces e Lambda/VendasDIO/VendasDIO.iml" />
     </modules>
   </component>
 </project>
